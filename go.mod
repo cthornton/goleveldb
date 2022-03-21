@@ -1,6 +1,6 @@
-module github.com/syndtr/goleveldb
+module github.com/blevesearch/goleveldb
 
-go 1.14
+go 1.13
 
 require (
 	github.com/golang/snappy v0.0.4
